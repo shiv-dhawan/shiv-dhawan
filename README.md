@@ -1,8 +1,8 @@
 ### Hi there 👋
 I'm Shivanshu.
-I'm mostly working on Machine Learning, Deep learning and NLP tasks. I am passionate about SQL, Python, R and Big Data & Cloud technologies.
+I'm mostly working on Machine Learning, Deep learning and Data Engineering tasks. I am passionate about SQL, Python, R and Big Data & Cloud technologies.
 
-🌱 I’m currently learning NLP and Deep Learning.
+🌱 I’m currently learning Big Data and Google Cloud Platform.
 
 📫 How to reach me: 
 
